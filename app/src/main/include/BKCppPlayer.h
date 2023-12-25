@@ -1,0 +1,14 @@
+//
+// Created by zunly on 2023/12/25.
+//
+
+#ifndef WILDPOINTERDEMO_BKCPPPLAYER_H
+#define WILDPOINTERDEMO_BKCPPPLAYER_H
+
+
+class BKCppPlayer {
+
+};
+
+
+#endif //WILDPOINTERDEMO_BKCPPPLAYER_H
